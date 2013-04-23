@@ -1,0 +1,7 @@
+C:\Users\Pythonic\Documents\GitHub\sheldon\Cooper\Cooper\bin\Debug\Cooper.exe
+C:\Users\Pythonic\Documents\GitHub\sheldon\Cooper\Cooper\bin\Debug\Cooper.pdb
+C:\Users\Pythonic\Documents\GitHub\sheldon\Cooper\Cooper\obj\x86\Debug\Cooper.Form1.resources
+C:\Users\Pythonic\Documents\GitHub\sheldon\Cooper\Cooper\obj\x86\Debug\Cooper.Properties.Resources.resources
+C:\Users\Pythonic\Documents\GitHub\sheldon\Cooper\Cooper\obj\x86\Debug\Cooper.csproj.GenerateResource.Cache
+C:\Users\Pythonic\Documents\GitHub\sheldon\Cooper\Cooper\obj\x86\Debug\Cooper.exe
+C:\Users\Pythonic\Documents\GitHub\sheldon\Cooper\Cooper\obj\x86\Debug\Cooper.pdb

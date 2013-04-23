@@ -14,6 +14,8 @@ namespace Cooper
         public Form1()
         {
             InitializeComponent();
+            // el formulario de Cooper correra en modo oculto, detal forma que no sera posible visualizarlo
+            // ni se mostrara en la barra de tareas
         }
     }
 }
