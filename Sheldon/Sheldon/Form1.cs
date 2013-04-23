@@ -15,5 +15,11 @@ namespace Sheldon
         {
             InitializeComponent();
         }
+
+        private void caracteristicasToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Ayuda ayuda = new Ayuda();
+            ayuda.ShowDialog();
+        }
     }
 }

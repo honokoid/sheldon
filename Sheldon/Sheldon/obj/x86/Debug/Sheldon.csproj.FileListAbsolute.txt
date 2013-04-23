@@ -1,0 +1,8 @@
+C:\Users\Pythonic\Documents\GitHub\sheldon\Sheldon\Sheldon\bin\Debug\Sheldon.exe
+C:\Users\Pythonic\Documents\GitHub\sheldon\Sheldon\Sheldon\bin\Debug\Sheldon.pdb
+C:\Users\Pythonic\Documents\GitHub\sheldon\Sheldon\Sheldon\obj\x86\Debug\Sheldon.Ayuda.resources
+C:\Users\Pythonic\Documents\GitHub\sheldon\Sheldon\Sheldon\obj\x86\Debug\Sheldon.Form1.resources
+C:\Users\Pythonic\Documents\GitHub\sheldon\Sheldon\Sheldon\obj\x86\Debug\Sheldon.Properties.Resources.resources
+C:\Users\Pythonic\Documents\GitHub\sheldon\Sheldon\Sheldon\obj\x86\Debug\Sheldon.csproj.GenerateResource.Cache
+C:\Users\Pythonic\Documents\GitHub\sheldon\Sheldon\Sheldon\obj\x86\Debug\Sheldon.exe
+C:\Users\Pythonic\Documents\GitHub\sheldon\Sheldon\Sheldon\obj\x86\Debug\Sheldon.pdb
